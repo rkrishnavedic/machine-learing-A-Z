@@ -9,8 +9,8 @@ Solution:
 2. Find probability of each combination [combination of r.v.]
 3. Use probability to estimate profit/loss for each player
 
-Let X is random variable i.e. X = number of red balls
-So, S = sample set
+Let X is random variable i.e. X = number of red balls\
+So, S = sample set\
 
-P(X=0) = (2/5)^4
+P(X=0) = (2/5)^4\
 P(X=4) = (3/5)^4
